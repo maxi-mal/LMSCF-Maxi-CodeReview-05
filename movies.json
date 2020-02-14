@@ -1,0 +1,38 @@
+var movies = `[{
+	"uniqueid": "1",
+	"title": "Wings of desire",
+	"description": "Invisible, immortal angels populate Berlin and listen to the thoughts of its human inhabitants, comforting the distressed. Even though the city is densely populated, many of the people are isolated or estranged from their loved ones.",
+	"image": "<img src='img/wimwenders.jpg'",
+	"like": 0,
+    "views": 0
+}, {
+	"uniqueid": "2",
+	"title": "Downhill",
+	"description": "After being scared by an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.",
+	"image": "<img src='img/downhill.jpg'",
+	"like": 0
+}, {
+	"uniqueid": "3",
+	"title": "Parasite",
+	"description": " The Kim family—father Ki-taek, mother Chung-sook, daughter Ki-jeong and son Ki-woo—live in a small semi-basement apartment (banjiha), have low-paying temporary jobs, and struggle to make ends meet.",
+	"image": "<img src='img/parasite.jpg'",
+	"like": 0
+}, {
+	"uniqueid": "4",
+	"title": "The Great Beauty",
+	"description": "After his sixty-fifth birthday, Jep Gambardella, a journalist with a passion for parties and beautiful women, finds himself lost between the nostalgia of the past and the uncertainty of the future.",
+	"image": "<img src='img/thegreatbeauty.jpg'",
+	"like": 0
+}, {
+	"uniqueid": "5",
+	"title": "The kids are alright",
+	"description": "Lesbian couple Nic and Jules raise two children thanks to the contributions of a anonymous sperm donor. As 18-year-old daughter Joni prepares to leave for college, she and younger brother Laser get curious about their heritage.",
+	"image": "<img src='img/thekidsarealright.jpg'",
+	"like": 0
+}, {
+	"uniqueid": "6",
+	"title": "Ronaldo",
+	"description": "Documentary charting the life of superstar Portuguese footballer Chistiano Ronaldo. From his humble beginnings to his record-breaking career, this film tells the story of one of the world's most renowned sporting stars.",
+	"image": "<img src='img/ronaldo.jpg'",
+	"like": 0
+}]`;
