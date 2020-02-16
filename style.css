@@ -44,45 +44,37 @@
 	background-color:#1D2329;
 	display: flex;
 	justify-content: space-around;
+
 }
 
-
-/* formerly Moviebox */
 .col-5 {
 	background-color: #181818;
 	display: flex;
-	margin: 9px;
-	flex-direction: row;
+	margin: 20px;
 }
 
 #imgbox {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	background-color: #181818;
+	padding: 10px;
 }
 
 #textbox {
-	display: flex;
 	background-color: #181818;
-	padding: 10px;
-	flex-wrap: wrap;
+	padding: 20px;
 }
 
 #movietitle {
-	display: flex;
 	color: #CDCDCD;
 	background-color: #181818;
 	font-size: 20pt;
 	font-weight: bold;
-	justify-content: center;
-	align-items: center;
+	padding-bottom: 20px;
 }
 
 #moviedescrip {
 	color: #CDCDCD;
 	background-color: #181818;
-	font-size: 13pt;
+	font-size: 14pt;
 }
 
 #rating {
@@ -91,6 +83,10 @@
 	justify-content: flex-end;
 	background-color: #181818;
 }
+
+
+
+
 
 #ownfooter {
 	background-color: black;
