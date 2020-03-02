@@ -1,99 +1,139 @@
 #ownheader {
-	background-color: black;
-	height: 100px;
-	display:flex;
-	justify-content: center;
-	font-size: 35pt;
-	color: white;
-	align-items: center;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 35pt;
+    color: white;
+    align-items: center;
 }
 
 #ownnav {
-	background: #494949;
-	color: #DCDCDC;
-	font-size: 22pt;
-	text-align: left;
-	font-weight: bold;
-	padding: 10px;
+    background: #494949;
+    color: #DCDCDC;
+    font-size: 22pt;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px;
 }
 
 #movies {
-	display: flex;
-	align-items: center;
-	background-color:#1D2329;
-	color: white;
-	font-size: 24pt;
-	padding-left: 580px;
-	padding-top: 20px;
-	padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    background-color: #1D2329;
+    color: white;
+    font-size: 24pt;
+    padding-left: 580px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 #sortbar {
-	display: flex;
-	justify-content: flex-end;
-	color: white;
-	font-size: 17pt;
-	background-color:#1D2329;
-	align-items: flex-end;
-	padding-top: 20px;
-	padding-bottom: 10px;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-size: 17pt;
+    background-color: #1D2329;
+    align-items: flex-end;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 #background {
-	padding-top: 20px;
-	background-color:#1D2329;
-	display: flex;
-	justify-content: space-around;
+    padding-top: 20px;
+    background-color: #1D2329;
+    display: flex;
+    justify-content: space-around;
 
 }
 
 .col-5 {
-	background-color: #181818;
-	display: flex;
-	margin: 20px;
+    background-color: #181818;
+    display: flex;
+    margin: 10px;
 }
 
 #imgbox {
-	background-color: #181818;
-	padding: 10px;
+    background-color: #181818;
+    padding: 10px;
 }
 
 #textbox {
-	background-color: #181818;
-	padding: 20px;
+    background-color: #181818;
+    padding: 20px;
 }
 
 #movietitle {
-	color: #CDCDCD;
-	background-color: #181818;
-	font-size: 20pt;
-	font-weight: bold;
-	padding-bottom: 20px;
+    color: #CDCDCD;
+    background-color: #181818;
+    font-size: 20pt;
+    font-weight: bold;
+    padding-bottom: 20px;
 }
 
 #moviedescrip {
-	color: #CDCDCD;
-	background-color: #181818;
-	font-size: 14pt;
+    color: #CDCDCD;
+    background-color: #181818;
+    font-size: 14pt;
 }
-
-#rating {
-	display: flex;
-	align-items: flex-end;
-	justify-content: flex-end;
-	background-color: #181818;
-}
-
-
-
 
 
 #ownfooter {
-	background-color: black;
-	height: 100px;
-	display:flex;
-	justify-content: center;
-	font-size: 28pt;
-	color: white;
-	align-items: center;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 28pt;
+    color: white;
+    align-items: center;
+}
+
+.Likes {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    align-self: flex-end;
+}
+
+#like{
+    color: #3E7C01;
+    font-size: 23px;
+    padding-left: 270px;
+    display: flex;
+    align-items: flex-end;
+    align-self: flex-end;
+}
+
+#thumb {
+    display: flex;
+    align-items: flex-end;
+    background-color: inherit;
+    align-self: flex-end;
+}
+
+button {
+    width: 30px;
+    height: 30px;
+    background-color: inherit;
+    border: none;
+}
+
+#clickme img{
+    display: flex;
+    justify-content: flex-start;
+    width: 20px;
+    height: 20px;
+    border: none;
+}
+
+.counter {
+    background-color: #008b00;
+    color: white;
+    font-size: 15px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
